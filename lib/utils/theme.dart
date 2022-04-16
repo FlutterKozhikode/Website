@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class KozhikodeTheme {
   static const Color darkPrimary = Color(0xFF001E3D);
@@ -10,6 +11,15 @@ class KozhikodeTheme {
 
   static ThemeData get theme {
     return ThemeData(
+      textTheme: GoogleFonts.openSansTextTheme(
+        const TextTheme(
+          headline2: TextStyle(
+            fontSize: 72,
+            fontWeight: FontWeight.w500,
+            color: white,
+          ),
+        ),
+      ),
       colorScheme: const ColorScheme.dark(
         primary: darkPrimary,
         secondary: darkSecondary,
