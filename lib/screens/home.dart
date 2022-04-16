@@ -37,7 +37,7 @@ class HomeState extends State<Home> {
                           "fest/icons/icon_flutter_wht.png",
                           height: 150,
                         ),
-                        const SizedBox(width: 20),
+                        const SizedBox(width: 30),
                       ],
                     ),
                     const SizedBox(height: 30),
