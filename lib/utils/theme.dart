@@ -6,6 +6,7 @@ class KozhikodeTheme {
   static const Color darkSecondary = Color(0xFF0553B1);
   static const Color textBlue = Color(0xFF027DFD);
   static const Color darkBlue = Color(0xFF004EBF);
+  static const Color tagBg = Color(0xFF004FBF);
   static const Color white = Colors.white;
   static const Color black = Colors.white;
 
