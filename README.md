@@ -1,6 +1,10 @@
-# flutterkozhikode
+# Flutter Kozhikode 💙
 
 Flutter Kozhikode - Official Website
+
+![Logo](assets/Flutter%20Kozhikode.jpg)
+
+And we are finally here! This is the official Flutter Kozhikode website's GitHub repo.
 
 ## Getting Started
 
