@@ -14,7 +14,7 @@ class KozhikodeTheme {
     return ThemeData(
       textTheme: GoogleFonts.openSansTextTheme(
         const TextTheme(
-          headline2: TextStyle(
+          displayMedium: TextStyle(
             fontSize: 72,
             fontWeight: FontWeight.w500,
             color: white,

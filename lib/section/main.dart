@@ -40,7 +40,7 @@ class HomeSection extends StatelessWidget {
                   TypewriterAnimatedText(
                     "Flutter Kozhikode",
                     textAlign: TextAlign.center,
-                    textStyle: Theme.of(context).textTheme.headline2,
+                    textStyle: Theme.of(context).textTheme.displayMedium,
                     speed: const Duration(milliseconds: 200),
                   ),
                 ],
